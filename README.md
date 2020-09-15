@@ -1,3 +1,7 @@
+# start 🍣
+
+truffle deploy --network ropsten
+
 # SushiSwap 🍣
 
 https://app.sushiswap.org. Feel free to read the code. More details coming soon.
